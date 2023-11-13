@@ -57,7 +57,7 @@ img{
         margin-top:50px;
         border-radius:10px;
         object-fit: contain;
-        margin-left: 30%;
+        margin-left:39%;
         display:block;
         border: black;
         
@@ -253,6 +253,25 @@ img{
     
     
     @media(max-width:500px){
+        .incharge{
+            margin-left: 40px;
+          
+    
+    
+        }
+
+        img{
+            margin-top:50px;
+            border-radius:10px;
+            object-fit: contain;
+            margin-left:2PX;
+            display:block;
+            border: black;
+            
+            border-radius: 20px;    
+          
+        }
+    
     
         .join{
             margin-left: 40%;
@@ -302,10 +321,12 @@ img{
         }
          .incharge img{
             margin-top: 40px;
-            margin-left:160px;
+            margin-left:140px;
             border-radius: 50px;
             object-fit: contain;
             margin-bottom:40px ;
+            border-color: black;
+            
          }
          .incharge h3{
            color:#ff8860;
